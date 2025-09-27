@@ -51,7 +51,7 @@
 
     <build>
         <plugins>
-            <!--指定1.8jdk-->
+            <!--指定1.8jdk  11-->
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
                 <artifactId>maven-compiler-plugin</artifactId>
